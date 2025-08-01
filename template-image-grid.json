@@ -13,19 +13,19 @@
         "content": ""
       },
       {
-        "name": "TRUSS_TYPES_ARR",
+        "name": "TRUSS_TYPES_IMG",
         "type": "dynamicImageGrid",
-        "content": "[]",
+        "content": "",
         "position": {
-          "x": 10.42,
-          "y": 10.12
+          "x": 10.29,
+          "y": 10.52
         },
-        "width": 250.3,
-        "height": 153.72,
-        "readOnly": true,
+        "width": 250.82,
+        "height": 142.87,
         "rotate": 0,
         "opacity": 1,
-        "required": false
+        "required": false,
+        "readOnly": false
       }
     ]
   ],
