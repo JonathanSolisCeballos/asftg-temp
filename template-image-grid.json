@@ -1,0 +1,43 @@
+{
+  "schemas": [
+    [
+      {
+        "name": "Sunly",
+        "type": "text",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 10,
+        "height": 10,
+        "content": ""
+      },
+      {
+        "name": "TRUSS_TYPES_ARR",
+        "type": "dynamicImageGrid",
+        "content": "[]",
+        "position": {
+          "x": 10.42,
+          "y": 10.12
+        },
+        "width": 250.3,
+        "height": 153.72,
+        "readOnly": true,
+        "rotate": 0,
+        "opacity": 1,
+        "required": false
+      }
+    ]
+  ],
+  "basePdf": {
+    "width": 397,
+    "height": 280,
+    "padding": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "pdfmeVersion": "5.4.2"
+}
