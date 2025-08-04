@@ -131,7 +131,7 @@
         "height": 111.12,
         "rotate": 0,
         "opacity": 1,
-        "readOnly": true,
+        "readOnly": false,
         "required": false
       }
     ],
