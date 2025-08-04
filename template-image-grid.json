@@ -120,7 +120,7 @@
         "readOnly": false
       },
       {
-        "name": "field8",
+        "name": "TRUSS_TYPES_IMG",
         "type": "dynamicImageGrid",
         "content": "[{\"imageUrl\":\"https://raw.githubusercontent.com/JonathanSolisCeballos/asftg-temp/refs/heads/main/collar-ties.png\",\"chordLength\":\"5\\\"\"},{\"imageUrl\":\"https://raw.githubusercontent.com/JonathanSolisCeballos/asftg-temp/refs/heads/main/mw-truss.png\",\"chordLength\":\"6\\\"\"},{\"imageUrl\":\"https://raw.githubusercontent.com/JonathanSolisCeballos/asftg-temp/refs/heads/main/king-post.png\",\"chordLength\":\"7\\\"\"}]",
         "position": {
